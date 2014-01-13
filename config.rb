@@ -51,6 +51,13 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+[
+  'bower_components/normalize-css',
+  'bower_components/font-awesome/scss'
+].each do |path|
+  sprockets.append_path File.expand_path(path)
+end
+
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment

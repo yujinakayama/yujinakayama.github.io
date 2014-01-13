@@ -1,0 +1,12 @@
+{
+  "name": "yujinakayama.me",
+  "version": "0.0.1",
+  "authors": [
+    "Yuji Nakayama <nkymyj@gmail.com>"
+  ],
+  "private": true,
+  "dependencies": {
+    "normalize-css": "^2.1",
+    "font-awesome": "^4.0"
+  }
+}
