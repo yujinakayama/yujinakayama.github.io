@@ -11,11 +11,11 @@
   </author>
 
   <entry>
-    <title type="html"><![CDATA[サイト移転]]></title>
+    <title type="html"><![CDATA[This blog has moved.]]></title>
     <link href="http://blog.yujinakayama.me/"/>
-    <updated>2014-01-14T01:30:00+09:00</updated>
+    <updated>2014-02-09T00:00:00+09:00</updated>
     <id>http://blog.yujinakayama.me/</id>
-    <content type="html"><![CDATA[<p><a href="http://blog.yujinakayama.me/">blog.yujinakayama.me</a>に移転しました。</p>]]></content>
+    <content type="html"><![CDATA[<p>This blog has moved to <a href="http://blog.yujinakayama.me/">blog.yujinakayama.me/</a>.</p>]]></content>
   </entry>
 
 </feed>
