@@ -55,7 +55,7 @@ set :images_dir, 'images'
   'bower_components/normalize-css',
   'bower_components/font-awesome/scss'
 ].each do |path|
-  sprockets.append_path File.expand_path(path)
+  sprockets.append_path(File.expand_path(path))
 end
 
 # Build-specific configuration
@@ -70,7 +70,7 @@ configure :build do
   activate :asset_hash
 
   # Use relative URLs
-  # activate :relative_assets
+  activate :relative_assets
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
