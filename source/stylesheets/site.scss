@@ -22,7 +22,7 @@ main {
   top: 50%;
   text-align: center;
 
-  margin-top: -120px;
+  margin-top: -100px;
 
   h1 {
     font-weight: 300;
@@ -30,7 +30,7 @@ main {
   }
 
   @media (min-width: $tablet-width) {
-    margin-top: -200px;
+    margin-top: -190px;
 
     h1 {
       font-size: 500%;
@@ -53,7 +53,7 @@ main {
   }
 
   a {
-    color: hsl(195, 80%, 80%);
+    color: hsl(220, 70%, 80%);
     text-decoration: none;
 
     @include transition-duration(150ms);
