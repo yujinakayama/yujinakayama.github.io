@@ -63,10 +63,10 @@ main {
   }
 
   a {
-    color: hsl(225, 70%, 80%);
+    color: hsl(230, 85%, 72%);
     text-decoration: none;
 
-    @include transition-duration(150ms);
+    @include transition-duration(100ms);
     @include transition-timing-function(linear);
 
     &:hover {
