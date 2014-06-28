@@ -84,6 +84,11 @@ main {
     @extend .fa-github;
   }
 
+  .gittip {
+    @extend .fa;
+    @extend .fa-heart;
+  }
+
   .blog {
     @extend .fa;
     @extend .fa-pencil;
