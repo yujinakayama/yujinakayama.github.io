@@ -63,7 +63,7 @@ main {
   }
 
   a {
-    color: hsl(230, 85%, 72%);
+    color: hsl(230, 80%, 72%);
     text-decoration: none;
 
     @include transition-duration(100ms);
