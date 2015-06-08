@@ -74,9 +74,13 @@ main {
     }
   }
 
-  .twitter {
+  .text {
+    display: none;
+  }
+
+  .blog {
     @extend .fa;
-    @extend .fa-twitter;
+    @extend .fa-pencil;
   }
 
   .github {
@@ -89,12 +93,13 @@ main {
     @extend .fa-heart;
   }
 
-  .blog {
+  .twitter {
     @extend .fa;
-    @extend .fa-pencil;
+    @extend .fa-twitter;
   }
 
-  .text {
-    display: none;
+  .vimeo {
+    @extend .fa;
+    @extend .fa-vimeo-square;
   }
 }
