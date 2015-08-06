@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[yujinakayama.me]]></title>
+  <link href="http://yujinakayama.me/atom.xml" rel="self"/>
+  <link href="http://yujinakayama.me/"/>
+  <updated>2014-01-14T01:30:00+09:00</updated>
+  <id>http://yujinakayama.me/</id>
+  <author>
+    <name><![CDATA[Yuji Nakayama]]></name>
+  </author>
+
+  <entry>
+    <title type="html"><![CDATA[This blog has moved.]]></title>
+    <link href="http://blog.yujinakayama.me/"/>
+    <updated>2014-02-09T00:00:00+09:00</updated>
+    <id>http://blog.yujinakayama.me/</id>
+    <content type="html"><![CDATA[<p>This blog has moved to <a href="http://blog.yujinakayama.me/">blog.yujinakayama.me/</a>.</p>]]></content>
+  </entry>
+
+</feed>
